@@ -1,6 +1,10 @@
 const App = () => {
   return (
-    <h1>Hello</h1>
+    <>
+      <div>
+        <h1 className="text-6xl">Hello Python Developer</h1>
+      </div>
+    </>
   )
 }
 export default App
